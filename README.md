@@ -32,9 +32,8 @@ This dataset contains details on every crime reported to NYPD from January 1, 20
 
 #### Visualizations
 * [ManhattanCrimeBokehPlot.html] A Bokeh Plot of the 3 types of crime in Manhattan with forecasting of crime rates.
+![ManhattanCrimeBokehPlot.html](https://github.com/gordonchen07/Manhattan-Crime/blob/master/Manhattan%20Borough%20Crime/ManhattanCrimeBokehPlot.html)
 * [ManhattanZipcodeCrime.mp4] A video of stitched images of Manhattan crime density plotted by zipcode on a heat map.
-![ManhattanZipcodeCrime.mp4](https://github.com/gordonchen07/ManhattanCrime/blob/master/Manhattan%20Zipcode%20Crime/ManhattanZipcodeCrime.mp4)
-
 
 
 ### Conclusion and Presentation
