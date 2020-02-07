@@ -7,6 +7,8 @@
 ## Project Description
 This Final Project of the Flatiron School Data Science program was to utilize the skills and tools acquired from the program to produce a meaningful analysis on NYC Open Data Crime Data. I utilized Time Series Analysis to study the crime data in Manhattan and to forecast what the crime rate will be in the future. There are two layers to the Time Series Analysis; first layer is to look at the forecasts of 3 types of Crime(Misdeamoner, Felony, Violation) and the second layer is to look at the forecasts of crime in each zipcode of Manhattan. Bokeh and Matplotlib were used to create visualizations of the Time Series forecasts.
 
+![TimeSeriesPlot.png](https://github.com/gordonchen07/Manhattan-Crime/blob/master/TimeSeriesPlot.png)
+
 ### Data Sources
 #### NYC Open Data
 NYPD Complaint Data Historic
