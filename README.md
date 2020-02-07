@@ -2,6 +2,8 @@
 * Gordon Chen (nyc-mhtn-ds-0422019)
 * Flatiron School
 
+![ManhattanZipcodeCrime.gif](https://github.com/gordonchen07/Manhattan-Crime/blob/master/ManhattanZipcodeCrime.gif)
+
 ## Project Description
 This Final Project of the Flatiron School Data Science program was to utilize the skills and tools acquired from the program to produce a meaningful analysis on NYC Open Data Crime Data. I utilized Time Series Analysis to study the crime data in Manhattan and to forecast what the crime rate will be in the future. There are two layers to the Time Series Analysis; first layer is to look at the forecasts of 3 types of Crime(Misdeamoner, Felony, Violation) and the second layer is to look at the forecasts of crime in each zipcode of Manhattan. Bokeh and Matplotlib were used to create visualizations of the Time Series forecasts.
 
@@ -32,7 +34,6 @@ This dataset contains details on every crime reported to NYPD from January 1, 20
 
 #### Visualizations
 * [ManhattanCrimeBokehPlot.html] A Bokeh Plot of the 3 types of crime in Manhattan with forecasting of crime rates.
-![ManhattanCrimeBokehPlot.html](https://github.com/gordonchen07/Manhattan-Crime/blob/master/Manhattan%20Borough%20Crime/ManhattanCrimeBokehPlot.html)
 * [ManhattanZipcodeCrime.mp4] A video of stitched images of Manhattan crime density plotted by zipcode on a heat map.
 
 
